@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Marlos Carciel😁
 
- <div>
-   <a href="https://github.com/MarlosCarciel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlosCarciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosCarciel&layout=compact&langs_count=6&theme=tokyonight"/>
+<div>
+<a href="https://github.com/MarlosCarciel">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlosCarciel&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlosCarciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 <div style="display: inline_block"><br>
